@@ -1,0 +1,18 @@
+## rolex-user 7.1.2 N2G47H V10.2.3.0.NCCMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8937
+- Codename: rolex
+- Brand: Xiaomi
+- Flavor: rolex-user
+- Release Version: 7.1.2
+- Id: N2G47H
+- Incremental: V10.2.3.0.NCCMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 320
+- Fingerprint: Xiaomi/rolex/rolex:7.1.2/N2G47H/V10.2.3.0.NCCMIXM:user/release-keys
+- OTA version: 
+- Branch: rolex-user-7.1.2-N2G47H-V10.2.3.0.NCCMIXM-release-keys
+- Repo: xiaomi_rolex_dump
